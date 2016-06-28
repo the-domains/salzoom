@@ -1,0 +1,14 @@
+layout_spectrum: 0.08004105743020773
+typography_spectrum: 0.22930450248531997
+color:
+  brandStrength: 0.18966669170185924
+  lightness: 0.4794446115847677
+  saturation: 0.19585596187971532
+  rhythmicContrast: 0.24533307552337646
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: SalZOOM
